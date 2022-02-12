@@ -1,0 +1,19 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "fullname": "Md Nizamuddin",
+      "email": "nizamuddin@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullname": "Md Nizam",
+      "email": "nizam@gmail.com"
+    },
+    {
+      "fullname": "Aayat Parveen",
+      "email": "aayat@gmail.com",
+      "id": 6
+    }
+  ]
+}
